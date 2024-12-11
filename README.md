@@ -1,9 +1,9 @@
-# Gerenciador Financeiro no Terminal
+# Gerenciador Financeiro
 
 ### [Vídeo](https://youtu.be/KZvzo8PATW0)
 ### **Descrição**
 
-O **Gerenciador Financeiro no Terminal** é um programa desenvolvido em Python que permite aos usuários monitorar suas finanças de forma simples e eficiente diretamente no terminal. Ele foi projetado para organizar receitas e despesas, exibir transações em períodos específicos e fornecer um resumo financeiro claro com receitas totais, despesas totais e saldo atual.
+O **Gerenciador Financeiro** é um programa desenvolvido em Python que permite aos usuários monitorar suas finanças de forma simples e eficiente diretamente no terminal. Ele foi projetado para organizar receitas e despesas, exibir transações em períodos específicos e fornecer um resumo financeiro claro com receitas totais, despesas totais e saldo atual.
 
 ---
 
@@ -58,3 +58,21 @@ Arquivo de armazenamento que contém todas as transações registradas em format
 
    ```bash
    python main.py
+
+--- 
+
+### **Possíveis Expansões**
+
+Este projeto foi desenvolvido com expansões futuras em mente. Algumas ideias incluem:
+
+1. **Gráficos e Visualizações**: Integração com bibliotecas como `matplotlib` ou `seaborn` para criar gráficos de receitas e despesas.
+
+2. **Interface Gráfica para o Usuário (GUI)**: Utilizando bibliotecas como `Tkinter` ou `Kivy`, seria possível criar uma interface intuitiva que permita ao usuário navegar por menus, adicionar transações e visualizar resumos financeiros sem precisar interagir diretamente com o terminal.
+
+3. **Integração com Banco de Dados**: Migração dos dados para um banco de dados relacional (como SQLite) ou não-relacional (como MongoDB) para maior escalabilidade.
+
+4. **Relatórios Avançados**: Geração automática de relatórios financeiros em formato PDF ou Excel.
+
+5. **Sistema de Notificações**: Alertas para despesas excessivas ou metas financeiras não atingidas.
+
+6. **Sistema de Múltiplos Usuários**: Adicionar suporte para múltiplos usuários permitiria que o programa fosse utilizado por diferentes pessoas no mesmo dispositivo, ou até mesmo de forma compartilhada em uma rede. Cada usuário teria seu próprio perfil, com transações e resumos financeiros armazenados separadamente.
