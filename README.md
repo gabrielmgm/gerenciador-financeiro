@@ -1,5 +1,6 @@
 # Gerenciador Financeiro no Terminal
 
+### [Vídeo](https://youtu.be/KZvzo8PATW0)
 ### **Descrição**
 
 O **Gerenciador Financeiro no Terminal** é um programa desenvolvido em Python que permite aos usuários monitorar suas finanças de forma simples e eficiente diretamente no terminal. Ele foi projetado para organizar receitas e despesas, exibir transações em períodos específicos e fornecer um resumo financeiro claro com receitas totais, despesas totais e saldo atual.
